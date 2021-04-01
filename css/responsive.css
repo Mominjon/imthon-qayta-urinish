@@ -1,0 +1,304 @@
+@media (max-width: 1140px){
+    .container {
+        width: 1000px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 200px;
+        margin-top: 40px;
+    }
+    .tepa-orta-2 a {
+        margin-left: -120px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 300px;
+    }
+}
+@media (max-width: 1040px){
+    .container {
+        width: 900px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 200px;
+        margin-top: 40px;
+    }
+    .tepa-orta-2 a {
+        margin-left: -50px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 250px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3-2 p {
+        width: 660px;
+        margin-left: 140px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 350px;
+    }
+}
+@media (max-width: 940px){
+    .container {
+        width: 800px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 120px;
+        margin-top: 40px;
+    }
+    .tepa-orta-2 a {
+        margin-left: -50px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3-2 p {
+        width: 660px;
+        margin-left: 140px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 300px;
+    }
+    .about-qism-4 {
+        margin-left: -100px;
+    }
+}
+@media (max-width: 840px){
+    .container {
+        width: 700px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 80px;
+        margin-top: 40px;
+    }
+    .tepa-orta-2 a {
+        margin-left: -0px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 140px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3 .left {
+        display: block;
+        text-align: center;
+    }
+    .right p {
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    .right h4 {
+        margin-left: -20px;
+    }
+    .left p {
+        margin-top: 10px;
+        margin-left: 120px;
+    }
+    .eng-tepa-qism ul {
+        display: none;
+    }
+    .menu {
+        height: 35px;
+        display: block;
+        padding: 5px 20px;
+        background-color: #00BAFC;
+        color: #fff!important;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .tepadan-3 li {
+        display: block;
+        text-align: center;
+        margin: 40px 0px;
+        margin-top: 25px;
+    }
+    .tepadan-3-2 p {
+        width: 660px;
+        margin-left: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 250px;
+    }
+    .about-qism-4 {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 740px){
+    .container {
+        width: 600px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    .tepadan-2-qism p {
+        width: 600px;
+    }
+    .tepa-orta-2 a {
+        margin-left: 90px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 90px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3 .left {
+        display: block;
+        text-align: center;
+    }
+    .right p {
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    .right h4 {
+        margin-left: -20px;
+    }
+    .left p {
+        margin-top: 10px;
+        margin-left: 120px;
+    }
+    .eng-tepa-qism ul {
+        display: none;
+    }
+    .width {
+        width: 300px;
+    }
+    .menu {
+        height: 35px;
+        display: block;
+        padding: 5px 20px;
+        background-color: #00BAFC;
+        color: #fff!important;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .tepadan-3-2 p {
+        width: 500px;
+    }
+    .tepadan-3 li {
+        display: block;
+        text-align: center;
+        margin: 40px 0px;
+        margin-top: 25px;
+    }
+    .tepadan-3-2 p {
+        width: 660px;
+        margin-left: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 250px;
+    }
+    .about-qism-4 {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 640px){
+    .container {
+        width: 500px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 {
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    .tepadan-2-qism p {
+        width: 600px;
+    }
+    .tepa-orta-2 a {
+        margin-left: 90px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 90px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3 .left {
+        display: block;
+        text-align: center;
+    }
+    .right p {
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    .right h4 {
+        margin-left: -20px;
+    }
+    .left p {
+        margin-top: 10px;
+        margin-left: 120px;
+    }
+    .eng-tepa-qism ul {
+        display: none;
+    }
+    
+    .menu {
+        height: 35px;
+        display: block;
+        padding: 5px 20px;
+        background-color: #00BAFC;
+        color: #fff!important;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .tepadan-3 li {
+        display: block;
+        text-align: center;
+        margin: 40px 0px;
+        margin-top: 25px;
+    }
+    .tepadan-3-2 p {
+        width: 660px;
+        margin-left: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 250px;
+    }
+    .about-qism-4 {
+        margin-left: 0px;
+    }
+}

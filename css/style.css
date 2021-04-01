@@ -1,0 +1,245 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: sans-serif;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.eng-tepa-qism {
+    display: flex;
+    justify-content: space-between;
+}
+.eng-tepa-qism ul {
+    display: flex;
+}
+.eng-tepa-qism h2 {
+    padding: 20px;
+}
+
+.eng-tepa-qism li {
+    padding: 20px 10px;
+}
+.eng-tepa-qism a {
+    color: black;
+}
+.tepa-link {
+    color: #fff!important;
+    background: #00BAFC;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: color, background 0.5s ease-in;
+}
+.tepa-link:hover {
+    color: #000!important;
+    background: #ffff99;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.tepa-orta {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+.tepa-orta h2 {
+    margin-top: 10px;
+    width: 560px;
+    font-size: 35px;
+}
+.tepa-orta p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 560px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.tepa-orta-2 {
+    margin-right: 95px;
+}
+/* section tugatildi */
+.tepadan-2-qism {
+    margin-top: 200px;
+    text-align: center;
+}
+.tepadan-2-qism h2 {
+   font-size: 40px;
+}
+.tepadan-2-qism p {
+    width: 660px;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+.tepadan-2-1 {
+    margin-top: 50px;
+}
+.tepadan-2-3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+}
+.tepadan-2-3 li {
+    margin: 50px 40px 50px 1px;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 250px;
+}
+.tepadan-2-3 h4 {
+    margin: 20px 0px;
+}
+.tepadan-2-3 p {
+    margin: 10px;
+}
+.tepadan-2-ohiri {
+    margin-top: 50px;
+    margin-left: 380px;
+}
+.tepadan-2-ohiri a {
+   margin: 10px;
+}
+/* section tugatildi */
+.tepadan-3 li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.menu {
+    display: none;
+    padding: 10px 20px;
+    background-color: #00BAFC;
+    color: #fff;
+}
+.tepadan-3-2 {
+    margin-top: 100px;
+    text-align: center;
+}
+.tepadan-3-2 p {
+    width: 660px;
+    margin-left: 220px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.tepadan-3 .left {
+    display: flex;
+    flex-flow: row-reverse;
+}
+.tepadan-3 p {
+    width: 450px;
+    margin-right: 50px;
+}
+.right p {
+    margin-left: 50px;
+}
+.right h4 {
+    margin-left: 50px;
+}
+.tepadan-3-link {
+    margin-left: 450px;
+}
+.bottom {
+    margin-bottom: 50px;
+}
+/* secyion tugatildi */
+.tepadan-6 {
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+.tepadan-6 h2 {
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.tepadan-6 p {
+    width: 660px;
+    margin: 0 auto;
+    line-height: 150%;
+    padding-bottom: 30px;
+}
+form {
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 300px;
+    background-color: #fff;
+}
+form input {
+    width: 280px;
+    padding: 10px 25px;
+    margin: 0px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+form select {
+    width: 280px;
+    padding: 10px 25px;
+    margin: 0px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+form button {
+    width: 200px;
+    padding: 10px 25px;
+    background: #00BAFC;
+    border-radius: 5px;
+    color: blanchedalmond;
+    margin-bottom: 20px;
+}
+.buyurtma-berish {
+    background-color: #00BAFC;
+}
+.hato {
+    padding: 30px;
+}
+/* section tugatildi */
+.about-qism {
+    background: #191919;
+}
+.about-qismi-1 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.about-qismi-2 {
+    width: 300px;
+}
+.about-qism-2 p {
+    line-height: 150%;
+}
+.about-qism-3 {
+   padding-bottom: 10px;
+}
+.about-qism-4 {
+    margin-left: -200px;
+}
+.about-qism-4 h2 {
+    padding-bottom: 10px;
+}
+.about-qism-4 li {
+    padding: 5px 0px;
+}
+.about-qism-4 a {
+    color: #fff;
+}
+.about-qism-5 a {
+    color: #fff;
+}
+.about-qism-5 img {
+    margin-top: 15px;
+}
