@@ -178,20 +178,28 @@
     .tepadan-3-2 {
         margin-bottom: 20px;
     }
+    .tepadan-3 p {
+        width: 450px;
+        margin-left: -500px;
+    }
     .tepadan-3 .left {
         display: block;
         text-align: center;
     }
     .right p {
         margin-top: 10px;
-        margin-left: 100px;
+        margin-left: 70px;
     }
     .right h4 {
-        margin-left: -20px;
+        margin-top: 20px;
+        margin-left: -0px;
+    }
+    .left h4 {
+        margin-top: 20px;
     }
     .left p {
         margin-top: 10px;
-        margin-left: 120px;
+        margin-left: 70px;
     }
     .eng-tepa-qism ul {
         display: none;
@@ -218,13 +226,30 @@
         margin-top: 25px;
     }
     .tepadan-3-2 p {
-        width: 660px;
+        width: 500px;
         margin-left: 50px;
         margin-top: 20px;
         margin-bottom: 20px;
     }
+    .about-qismi-2 {
+        margin: 0 auto;
+    }
+    .about-qism-4 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .about-qismi-1 {
+        display: block;
+        text-align: center;
+    }
+    .tepadan-6 p {
+        width: 600px;
+        margin: 0 auto;
+        line-height: 150%;
+        padding-bottom: 30px;
+    }
     .tepadan-3-link {
-        margin-left: 250px;
+        margin-left: 200px;
     }
     .about-qism-4 {
         margin-left: 0px;
@@ -238,19 +263,29 @@
         display: block;
         text-align: center;
     }
+    .tepa-orta-2 h2 {
+        width: 500px;
+        margin: 0 auto;
+    }
+    .tepa-orta-2 p {
+        margin-top: 10px;
+        width: 500px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
     .tepa-orta-2 {
-        margin-left: 10px;
+        margin-left: 0px;
         margin-top: 40px;
     }
     .tepadan-2-qism p {
-        width: 600px;
+        width: 500px;
     }
     .tepa-orta-2 a {
         margin-left: 90px;
     }
     .tepadan-2-ohiri {
         margin-top: 50px;
-        margin-left: 90px;
+        margin-left: 40px;
     }
     .tepadan-3-2 {
         margin-bottom: 20px;
@@ -261,14 +296,14 @@
     }
     .right p {
         margin-top: 10px;
-        margin-left: 100px;
+        margin-left: 20px;
     }
     .right h4 {
         margin-left: -20px;
     }
     .left p {
         margin-top: 10px;
-        margin-left: 120px;
+        margin-left: 20px;
     }
     .eng-tepa-qism ul {
         display: none;
@@ -289,14 +324,198 @@
         margin: 40px 0px;
         margin-top: 25px;
     }
+    .tepadan-6 p {
+        width: 500px;
+    }
     .tepadan-3-2 p {
-        width: 660px;
-        margin-left: 50px;
+        width: 500px;
+        margin-left: 0px;
         margin-top: 20px;
         margin-bottom: 20px;
     }
     .tepadan-3-link {
-        margin-left: 250px;
+        margin-left: 180px;
+    }
+    .about-qism-4 {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 540px){
+    .container {
+        width: 400px;
+    }
+    .tepa-orta img {
+        width: 400px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 h2 {
+        width: 400px;
+        margin: 0 auto;
+    }
+    .tepa-orta-2 p {
+        margin-top: 10px;
+        width: 400px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .tepa-orta-2 {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    .tepadan-2-qism p {
+        width: 400px;
+    }
+    .tepa-orta-2 a {
+        margin-left: 90px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3 .left {
+        display: block;
+        text-align: center;
+    }
+    .right p {
+        margin-top: 10px;
+        margin-left: 0px;
+        width: 400px;
+    }
+    .right h4 {
+        margin-left: -20px;
+    }
+    .left p {
+        width: 400px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .eng-tepa-qism ul {
+        display: none;
+    }
+    
+    .menu {
+        height: 35px;
+        display: block;
+        padding: 5px 20px;
+        background-color: #00BAFC;
+        color: #fff!important;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .tepadan-3 li {
+        display: block;
+        text-align: center;
+        margin: 40px 0px;
+        margin-top: 25px;
+    }
+    .tepadan-6 p {
+        width: 400px;
+    }
+    .tepadan-3-2 p {
+        width: 400px;
+        margin-left: 0px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 130px;
+    }
+    .about-qism-4 {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 440px){
+    .container {
+        width: 90%;
+    }
+    .tepa-orta img {
+        width: 300px;
+    }
+    .tepa-orta {
+        display: block;
+        text-align: center;
+    }
+    .tepa-orta-2 h2 {
+        width: 350px;
+        margin: 0 auto;
+    }
+    .tepa-orta-2 p {
+        margin-top: 10px;
+        width: 350px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .tepa-orta-2 {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    .tepadan-2-qism p {
+        width: 300px;
+    }
+    .tepa-orta-2 a {
+        margin-left: 50px;
+    }
+    .tepadan-2-ohiri {
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    .tepadan-3-2 {
+        margin-bottom: 20px;
+    }
+    .tepadan-3 .left {
+        display: block;
+        text-align: center;
+    }
+    .right p {
+        margin-top: 10px;
+        margin-left: 20px;
+        width: 300px;
+    }
+    .right h4 {
+        margin-left: -20px;
+    }
+    .left p {
+        width: 300px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .eng-tepa-qism ul {
+        display: none;
+    }
+    
+    .menu {
+        height: 35px;
+        display: block;
+        padding: 5px 20px;
+        background-color: #00BAFC;
+        color: #fff!important;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .tepadan-3 li {
+        display: block;
+        text-align: center;
+        margin: 40px 0px;
+        margin-top: 25px;
+    }
+    .tepadan-6 p {
+        width: 350px;
+    }
+    .tepadan-3-2 p {
+        width: 400px;
+        margin-left: 0px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tepadan-3-link {
+        margin-left: 100px;
     }
     .about-qism-4 {
         margin-left: 0px;
