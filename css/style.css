@@ -27,7 +27,7 @@ a {
 .eng-tepa-qism ul {
     display: flex;
 }
-.eng-tepa-qism h2 {
+.eng-tepa-qism img {
     padding: 20px;
 }
 
@@ -179,18 +179,28 @@ form {
     width: 300px;
     background-color: #fff;
 }
+form input:-ms-input-placeholder {
+        color: #000000;
+        opacity: 1;
+}
 form input {
+    background: #F3F3F3;
+    border: 1px solid #fff;
+    color: #000000;
     width: 280px;
     padding: 10px 25px;
     margin: 0px;
     border-radius: 5px;
     margin-top: 25px;
+   
 }
 form select {
+    background: #F3F3F3;
+    border: 1px solid #fff;
+    color: #000000;
     width: 280px;
     padding: 10px 25px;
     margin: 0px;
-    border-radius: 5px;
     margin-top: 25px;
     margin-bottom: 20px;
 }
