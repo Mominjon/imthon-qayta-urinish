@@ -19,10 +19,13 @@ li {
 a {
     text-decoration: none;
 }
+.nav-qisim {
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
 .eng-tepa-qism {
     display: flex;
     justify-content: space-between;
-    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    
 }
 .eng-tepa-qism ul {
     display: flex;
@@ -140,11 +143,16 @@ a {
     display: flex;
     flex-flow: row-reverse;
 }
+.left p {
+    margin-top: 10px;
+}
+
 .tepadan-3 p {
     width: 450px;
     margin-right: 50px;
 }
 .right p {
+    margin-top: 10px;
     margin-left: 50px;
 }
 .right h4 {
@@ -239,6 +247,7 @@ form button {
 }
 .about-qism-4 {
     margin-left: -200px;
+    margin-bottom: 40px;
 }
 .about-qism-4 h2 {
     padding-bottom: 10px;
